@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52550d71-7f0f-43c7-8ad1-a5f407e8a73a" name="Changes" comment="Commit - 5" />
+    <list default="true" id="52550d71-7f0f-43c7-8ad1-a5f407e8a73a" name="Changes" comment="Commit Style.css" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +11,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript JSX File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -32,6 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
@@ -68,7 +70,7 @@
       <workItem from="1657128327863" duration="1166000" />
       <workItem from="1657129517716" duration="224000" />
       <workItem from="1657129756636" duration="364000" />
-      <workItem from="1657130138832" duration="3609000" />
+      <workItem from="1657130138832" duration="4004000" />
     </task>
     <task id="LOCAL-00001" summary="Add idea to ignore">
       <created>1657128544785</created>
@@ -154,7 +156,28 @@
       <option name="project" value="LOCAL" />
       <updated>1657171699167</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Commit - 6">
+      <created>1657172148594</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1657172148594</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Commit .idea to check how to delete">
+      <created>1657172294598</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1657172294598</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Commit Style.css">
+      <created>1657172406294</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1657172406294</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +218,9 @@
     <MESSAGE value="Commit - 3" />
     <MESSAGE value="Commit - 4" />
     <MESSAGE value="Commit - 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - 5" />
+    <MESSAGE value="Commit - 6" />
+    <MESSAGE value="Commit .idea to check how to delete" />
+    <MESSAGE value="Commit Style.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Style.css" />
   </component>
 </project>
