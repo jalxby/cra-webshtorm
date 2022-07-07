@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52550d71-7f0f-43c7-8ad1-a5f407e8a73a" name="Changes" comment="Commit - 5" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BZyjDKklpOHvvs6P4EdE5EoQ7C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\A. Jaroshevich\\WebstormProjects\\cra-webshtorm\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52550d71-7f0f-43c7-8ad1-a5f407e8a73a" name="Changes" comment="" />
+      <created>1657128038400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657128038400</updated>
+      <workItem from="1657128041193" duration="199000" />
+      <workItem from="1657128327863" duration="1166000" />
+      <workItem from="1657129517716" duration="224000" />
+      <workItem from="1657129756636" duration="364000" />
+      <workItem from="1657130138832" duration="3609000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add idea to ignore">
+      <created>1657128544785</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657128544785</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add idea to ignore&#10;Add yarm.lock to Git">
+      <created>1657129600336</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657129600336</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add yarm.lock to Git">
+      <created>1657129891733</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657129891733</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add yarn.lock to Git">
+      <created>1657130228137</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657130228137</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit - 1">
+      <created>1657130951545</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657130951545</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add Post, User and Test component">
+      <created>1657170778514</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657170778514</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Change naming">
+      <created>1657171251702</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1657171251702</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Change naming of &lt;h2&gt;">
+      <created>1657171279234</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1657171279234</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Commit - 3">
+      <created>1657171429240</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1657171429240</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Commit - 3">
+      <created>1657171479584</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1657171479584</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Commit - 4">
+      <created>1657171507721</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1657171507721</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Commit - 5">
+      <created>1657171699167</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1657171699167</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add idea to ignore" />
+    <MESSAGE value="Add idea to ignore&#10;Add yarm.lock to Git" />
+    <MESSAGE value="Add yarm.lock to Git" />
+    <MESSAGE value="Add yarn.lock to Git" />
+    <MESSAGE value="Commit - 1" />
+    <MESSAGE value="Add Post, User and Test component" />
+    <MESSAGE value="Change name" />
+    <MESSAGE value="Change naming of &lt;h2&gt;" />
+    <MESSAGE value="Commit - 3" />
+    <MESSAGE value="Commit - 4" />
+    <MESSAGE value="Commit - 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - 5" />
+  </component>
+</project>
