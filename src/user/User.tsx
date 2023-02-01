@@ -6,9 +6,6 @@ const User = () => {
             User2222
             User2222
             User2222
-            User2222
-            User2222
-            User2222
         </div>
     );
 };
