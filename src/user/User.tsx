@@ -4,8 +4,7 @@ const User = () => {
     return (
         <div>
             User2222
-            User2222
-            dev commit
+            User222
             dev commit
         </div>
     );
